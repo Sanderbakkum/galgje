@@ -11,7 +11,6 @@
 
 ## Beurten
 req: E
-<<<<<<< HEAD
 
-=======
->>>>>>> 1f1467dfb4bef8d0b858fcc9db034f00d508d71f
+
+
