@@ -10,3 +10,5 @@
 ![gallow](./images/2.png)
 
 ## Beurten
+req: E
+
